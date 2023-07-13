@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bd7c65cf30b00134c975ba9ed7adbd6d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Childlike Happiness
+  fontNames:
+  - Childlike Happiness
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 899507f2acf54f945af7fc9b0805b7bc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
